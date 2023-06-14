@@ -1,0 +1,6 @@
+emoji==1.7.0
+matplotlib
+pandas==2.0.2
+seaborn==0.12.2
+streamlit==1.23.1
+wordcloud==1.9.2
